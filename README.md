@@ -9,6 +9,13 @@
 
 ![](https://komarev.com/ghpvc/?username=shivam-kush&color=green)
 
+<a align="centre" href="https://github.com/shivam-kush">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=shivam-kush&theme=tokyonight&show_icons=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kush&theme=tokyonight&layout=compact" />
+</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shivam-kush&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <hr>
 
 <h3 align="center">Connect with me:</h3>
