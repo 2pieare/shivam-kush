@@ -4,7 +4,7 @@
          width="45" />, I'm Shivam Kushwaha</h1>
          
 <h5 align="center">
-  Hello! I am 3rd year Mechanical Engineering Student at NSUT,Delhi. I’m interested in Deep Learning and Web3. I am also a newbie open-source enthusiast.
+  Hello! I am 3rd year Mechanical Engineering Student at NSUT,Delhi. I’m interested in Deep Learning, Web3 & creative coding. I am also a newbie open-source enthusiast.
 </h5>
 
 ![](https://komarev.com/ghpvc/?username=shivam-kush&color=green)
