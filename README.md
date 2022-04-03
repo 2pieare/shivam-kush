@@ -5,7 +5,7 @@
          
 <h4>
          <ul>
-                  <li> I am studying Mechanical Engineer at NSUT,Delhi,India. </li>
+                  <li> I am studying Mechanical Engineering at NSUT,Delhi,India. </li>
                   <li> My deep interests lies within : </li>
                            <ul> 
                                     <li> Cryptography, </li>
