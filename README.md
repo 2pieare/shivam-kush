@@ -12,7 +12,7 @@
                                     <li> Distributed Systems, </li>
                                     <li> Blockchain Technology. </li>
                            </ul>
-                 <li> Besides these I like to talk about DeFi, Game Theory, Systems Thinking and Token Engineering. </li>
+                 <li> Besides these I like to read and talk about DeFi, Game Theory, Systems Thinking and Token Engineering. </li>
 </h4>
          
 <h4> Currently learning - <i>JavaScript</i>, <i>React</i> and <i>Solidity</i> </h4>
