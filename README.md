@@ -10,6 +10,7 @@
                            <ul> 
                                     <li> Cryptography, </li>
                                     <li> Distributed Systems, </li>
+                                    <li> Game Theory in Finance
                                     <li> Blockchain Technology. </li>
                            </ul>
                  <li> Besides these I like to read and talk about DeFi, Game Theory, Systems Thinking and Token Engineering. </li>
@@ -26,13 +27,12 @@
 
 <hr>
 
-![](https://komarev.com/ghpvc/?username=shivam-kush&color=blue)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2pieare)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kush&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kush&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam-kush)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2pieare&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+         
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21rq2agbpblwkefcxqtatpd6q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)-->
 
 <!---
 shivam-kush/shivam-kush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
