@@ -27,9 +27,9 @@
 
 <hr>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2pieare)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=twopieare)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2pieare&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twopieare&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
          
 <!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21rq2agbpblwkefcxqtatpd6q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)-->
